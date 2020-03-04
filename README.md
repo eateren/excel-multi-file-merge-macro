@@ -1,7 +1,7 @@
 # excel-multi-file-merge-macro
 This workbook will combine all the excel/csv files you put into a folder, stacking them on top of each other.
 
-
+1. Unpack the zip folder anywhere you'd like to save it
 1. Place your files in the data_for_processing folder 
 1. Open the File Combinator excel macro file
 1. Make sure that macros are enabled
